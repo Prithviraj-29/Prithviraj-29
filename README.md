@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Prithviraj Kakatkar 👋</h1>
 <h3 align="center">🚀 Full-Stack Web Developer | MERN Stack | React & React Native Enthusiast 🚀</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="150"/>
+</p>
 
 ---
 
