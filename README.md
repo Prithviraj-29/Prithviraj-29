@@ -47,8 +47,8 @@
 
 ## 📫 Let's Connect!  
 <p align="center">
-  📩 **Email:** [prithvirajkakatkar4@gmail.com](mailto:prithvirajkakatkar4@gmail.com)  
-  💼 **LinkedIn:** [https://www.linkedin.com/in/prithviraj-kakatkar-8b752a271/]
+  📩 Email: prithvirajkakatkar4@gmail.com(mailto:prithvirajkakatkar4@gmail.com)  
+  💼 LinkedIn: https://www.linkedin.com/in/prithviraj-kakatkar-8b752a271/
 </p>
 
 ---
