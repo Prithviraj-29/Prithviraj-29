@@ -47,9 +47,10 @@
 
 ## 📫 Let's Connect!  
 <p align="center">
-  📩 Email: prithvirajkakatkar4@gmail.com(mailto:prithvirajkakatkar4@gmail.com)  
-  💼 LinkedIn: https://www.linkedin.com/in/prithviraj-kakatkar-8b752a271/
+  📩 Email: <a href="mailto:prithvirajkakatkar4@gmail.com">prithvirajkakatkar4@gmail.com</a> <br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/prithviraj-kakatkar-8b752a271/">Prithviraj Kakatkar</a>
 </p>
+
 
 ---
 
